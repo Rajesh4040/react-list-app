@@ -1,2 +1,5 @@
-# react-list-app
-react-list-app
+# React Todo App
+
+This is a lists with tasks I created using React.
+npm install
+npm start
